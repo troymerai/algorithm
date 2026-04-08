@@ -23,11 +23,11 @@ algorithm/
 ### 예시
 
 ```
-BOJ 2178 미로탐색
-PGS 완주하지못한선수
-LTC 15 3Sum
-CFR 580B KefaAndCompany
-impl 레드블랙트리
+[BOJ] 2178 미로탐색
+[PGS] 완주하지못한선수
+[LTC] 15 3Sum
+[CFR] 580B KefaAndCompany
+[impl] 레드블랙트리
 ```
 
 ### 파일 네이밍
